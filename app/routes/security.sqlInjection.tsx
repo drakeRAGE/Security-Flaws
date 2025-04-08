@@ -1,9 +1,5 @@
-import React from 'react'
+import SqlInjectionExplanation from "~/components/SqlInjection/explanation";
 
-const SqlInjectionExplanation = () => {
-  return (
-    <div>SqlInjectionExplanation</div>
-  )
+export default function SqlInjectionPage() {
+  return <SqlInjectionExplanation />;
 }
-
-export default SqlInjectionExplanation
