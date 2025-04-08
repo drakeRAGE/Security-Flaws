@@ -55,6 +55,12 @@ const securityFlaws = {
       description: 'Learn about SQL injection attacks and how to implement proper database security.',
       icon: '🗄️'
     },
+    {
+      id: 'ssrf',
+      title: 'Server-Side Request Forgery (SSRF)',
+      description: 'Discover how SSRF attacks work and how to implement proper server-side security.',
+      icon: '🌐'
+    }
   ]
 };
 
