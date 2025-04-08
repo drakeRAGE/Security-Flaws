@@ -27,6 +27,12 @@ const securityFlaws = [
     title: 'Clickjacking',
     description: 'Discover how clickjacking attacks work and how to prevent them in your web applications.',
     icon: '🖱️'
+  },
+  {
+    id: 'idor',
+    title: 'Insecure Direct Object Reference (IDOR)',
+    description: 'Discover how IDOR attacks work and how to prevent them in your web applications.',
+    icon: '🔑'
   }
 
 ];
