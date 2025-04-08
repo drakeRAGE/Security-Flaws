@@ -22,6 +22,12 @@ const securityFlaws = [
     description: 'Discover how CSRF attacks work and how to protect your web applications against them.',
     icon: '🛡️'
   },
+  {
+    id: 'clickjacking',
+    title: 'Clickjacking',
+    description: 'Discover how clickjacking attacks work and how to prevent them in your web applications.',
+    icon: '🖱️'
+  }
 
 ];
 
