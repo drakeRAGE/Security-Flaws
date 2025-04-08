@@ -33,6 +33,12 @@ const securityFlaws = [
     title: 'Insecure Direct Object Reference (IDOR)',
     description: 'Discover how IDOR attacks work and how to prevent them in your web applications.',
     icon: '🔑'
+  },
+  {
+    id: 'injection',
+    title: 'HTML and JS Injection',
+    description: 'Discover how HTML and JS injection attacks work and how to prevent them in your web applications.',
+    icon: '💻'
   }
 
 ];
