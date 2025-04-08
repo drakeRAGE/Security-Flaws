@@ -39,6 +39,12 @@ const securityFlaws = [
     title: 'HTML and JS Injection',
     description: 'Discover how HTML and JS injection attacks work and how to prevent them in your web applications.',
     icon: '💻'
+  },
+  {
+    id: 'brokenAuth',
+    title: 'Broken Authentication',
+    description: 'Discover how Broken Authentication attacks work and how to prevent them in your web applications.',
+    icon: '🛑'
   }
 
 ];
