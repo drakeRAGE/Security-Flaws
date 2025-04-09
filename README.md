@@ -2,6 +2,10 @@
 
 A comprehensive resource designed to help developers, students, and security enthusiasts understand and mitigate common security vulnerabilities in web applications. This site explores both frontend and backend security flaws, offering detailed explanations, practical code examples, and actionable fixes. Built with modern frameworks like ReactJS, TypeScript, Next.js, and Remix, this project is your go-to guide for mastering secure coding practices.
 
+![image](https://github.com/user-attachments/assets/a21b06e1-cb38-4cdb-a64e-c369bc03de34)
+![image](https://github.com/user-attachments/assets/c3f5cdf7-1f9f-48f3-af3f-c9060e05fd3e)
+
+
 ## Purpose
 
 This site aims to:
